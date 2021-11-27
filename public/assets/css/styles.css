@@ -1,0 +1,12 @@
+@charset 'UTF-8';
+
+body, main {
+    min-height: 100vh !important;
+}
+
+.scrollable {
+    position: relative;
+    overflow: auto;
+    flex: 1;
+    height: 100%;
+}
